@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:signup_screen/pages/register.dart';
+import 'package:ui_screen/pages/login.dart';
 
 class Mylogin extends StatefulWidget {
   const Mylogin({super.key});
